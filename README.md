@@ -185,7 +185,7 @@ Infrastructure Philosophy:
 [![CRM](https://img.shields.io/badge/🏢_SaaS-Solid_Foundation-188bf6?style=for-the-badge)](https://www.micknown.com/ghlaffiliate)
 [![AI](https://img.shields.io/badge/🤖_AI_Services-Influencer_Systems-188bf6?style=for-the-badge)](https://www.micknown.com/aiinfluencers)
 
-[![Twitter](https://img.shields.io/badge/🐦_Updates-@KnownMike-1DA1F2?style=for-the-badge)](https://x.com/KnownMike)
+[![Twitter](https://img.shields.io/badge/🐦_Updates-@KnownMike-1DA1F2?style=for-the-badge)](https://x.com/KnownMic)
 
 </div>
 
