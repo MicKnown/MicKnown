@@ -16,7 +16,7 @@
 
 I'm **Mic Known**—but everywhere I go, people call me **BossMan**.
 
-**From the studio to the server room.** I architect scalable AI systems by day and create chart-worthy music by night. With **200K+ in streaming royalties** earned and **enterprise-grade infrastructure** deployed, I bridge the gap between **creative expression** and **technical execution**.
+**From the studio to the server room.** I architect scalable AI systems by day and create chart-worthy music by night. With over **200K+ in streaming royalties** earned and **enterprise-grade infrastructure** deployed, I bridge the gap between **creative expression** and **technical execution**.
 
 > *"I don't just build systems—I compose them. I don't just write code—I write hits."*
 
