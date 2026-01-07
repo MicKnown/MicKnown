@@ -2,7 +2,9 @@
 
 # 🎤 Mic Known (aka BossMan) 🏗️
 
-**Artist • Engineer • Entrepreneur • Father • Visionary**
+**Music Artist → Automation Architect | Founder @ Solid Foundation**
+
+I mentor the mentors and coach the coaches.
 
 [![Spotify](https://img.shields.io/badge/Spotify-200K%2B%20Royalties-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/7mbYQS9evKbvZOptRJ8uZL)
 [![YouTube](https://img.shields.io/badge/YouTube-Creator-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/micknown)
@@ -12,13 +14,44 @@
 
 ---
 
-## 🔥 The Artist-Engineer Hybrid
+## 🔥 The Short Version
 
 I'm **Mic Known**—but everywhere I go, people call me **BossMan**.
 
-**From the studio to the server room.** I architect scalable AI systems by day and create chart-worthy music by night. With over **200K+ in streaming royalties** earned and **enterprise-grade infrastructure** deployed, I bridge the gap between **creative expression** and **technical execution**.
+I pioneered **RAP Funnels** with LifePreneur Music — cinematic campaigns for **ClickFunnels, GoHighLevel, Fullstaq Marketer, HempWorx, InVideo, and Photobooth International**. I reverse-engineered what actually converts, then I systematized it.
 
-> *"I don't just build systems—I compose them. I don't just write code—I write hits."*
+Now I build AI-powered CRM systems, automated lead generation funnels, and custom cloud software that scales.
+
+**From the studio to the server room.** I architect scalable AI systems by day and create chart-worthy music by night. With over **$200K+ in streaming royalties** earned and **enterprise-grade infrastructure** deployed, I bridge the gap between **creative expression** and **technical execution**.
+
+> *"I reverse-engineer what converts, then I systematize it."*
+
+---
+
+## 💰 Major Wins
+
+- **$250K+ generated in 30 minutes** on a single Zoom launch
+- **$200K+ in streaming royalties** distributed to artists
+- **Six figures** across music, film, product launches, coaching, and crypto
+- Built systems that don't just pay me—they pay others
+
+---
+
+## 🎬 RAP Funnels & LifePreneur Music
+
+**Cinematic video campaigns that convert.**
+
+I created **RAP Funnels**—a unique fusion of music, storytelling, and high-converting marketing funnels. These aren't just ads; they're cinematic experiences designed to sell.
+
+### 🏆 Client Portfolio
+- **ClickFunnels** - Marketing funnel campaigns
+- **GoHighLevel** - CRM automation content
+- **Fullstaq Marketer** - Educational course promotions
+- **HempWorx** - Product launch videos
+- **InVideo** - Platform demonstration content
+- **Photobooth International** - Event marketing campaigns
+
+**The Formula:** Music production + video storytelling + conversion psychology = campaigns that actually work.
 
 ---
 
@@ -29,7 +62,7 @@ I'm **Mic Known**—but everywhere I go, people call me **BossMan**.
 | 🎧 **Spotify** | Professional Artist, 200K+ Royalties Earned | [Stream Now](https://open.spotify.com/artist/7mbYQS9evKbvZOptRJ8uZL) |
 | 📺 **YouTube** | Music Videos, Behind-the-Scenes Content | [Watch Now](https://youtube.com/micknown) |
 | 🎵 **WiFi Radio** | Curated Playlists, Millions of Monthly Streams | Platform Owner |
-| 🎬 **Video Production** | AI-Enhanced Music Videos, Talking Avatars | Creative Director |
+| 🎬 **RAP Funnels** | Cinematic Marketing Campaigns | Creative Director |
 
 ### 🏆 Music Industry Achievements
 - **Streaming Revenue**: $200K+ in royalties distributed to artists
@@ -39,9 +72,58 @@ I'm **Mic Known**—but everywhere I go, people call me **BossMan**.
 
 ---
 
-## 🏗️ Engineering Portfolio
+## 🏗️ What I Build
 
-### 🤖 **AI Infrastructure Projects**
+### **Automation & CRM**
+- GoHighLevel implementations & white-label SaaS
+- AI-powered lead generation systems
+- n8n workflows, Zapier integrations
+- Done-for-you marketing automation
+- CRM workflows: Lead capture → nurture → conversion automation
+
+### **Cloud & Infrastructure**
+- Google Cloud Platform & Cloud Console
+- Cloudflare Workers, Tunnels, R2 Buckets, Durable Objects
+- Docker containers, swarms & agent orchestration
+- PostgreSQL, Redis, R1 databases, vector databases, KV storage
+- Edge computing optimization
+- Google Play Store app deployments
+- Monitoring: Grafana, Prometheus, Portainer dashboards
+
+### **AI & LLMs**
+- Prompt engineering & LLM architecture
+- Local deployments: Ollama, Code Llama, Qwen
+- OpenAI, Anthropic (Claude) API integrations
+- Multi-agent systems & MCP protocol
+- AI-powered content creation pipelines
+
+### **Audio Engineering**
+- Pro Tools, Ableton Live (surgical-level)
+- Melodyne pitch correction, sound design
+- Beat programming, mixing, mastering
+- Outboard gear & in-the-box production
+- Plugin development & audio software
+- Voice AI: PlayHT integration for narration
+
+### **Video & Visual Production**
+- DaVinci Resolve (expert)
+- Adobe Premiere Pro, After Effects
+- Blender, Cinema 4D
+- Photoshop & full Adobe Suite
+- Google Veo 3, RunwayML, Kaiber AI pipelines
+- FFmpeg automation workflows
+
+### **Development**
+- **Languages**: Python, TypeScript, JavaScript, Ruby, Bash
+- **Tools**: GitHub source control, Git workflows
+- **APIs**: REST, WebSocket, MCP Protocol, third-party integrations
+- **Specialties**: API development, software reverse engineering
+
+---
+
+## 🤖 Engineering Portfolio
+
+### **Featured Projects**
 
 | Project | Technology Stack | Description |
 |---------|-----------------|-------------|
@@ -52,60 +134,16 @@ I'm **Mic Known**—but everywhere I go, people call me **BossMan**.
 | **Crypto Galaxy** | Three.js, WebGL, APIs | 3D cryptocurrency visualization engine |
 | **Solid Foundation CRM** | GoHighLevel, n8n, Webhooks | White-label SaaS automation platform |
 
-### ⚙️ **DevOps & Automation**
-
-```yaml
-Infrastructure Philosophy:
-  - Container-first architecture
-  - Infrastructure-as-Code
-  - Automated deployment pipelines
-  - Monitoring & observability
-  - Multi-environment management
-  - Edge computing optimization
-```
-
-**Core Technologies:**
-- **Orchestration**: Docker Compose, Kubernetes concepts
-- **Edge Computing**: Cloudflare Workers, Durable Objects, R2 Storage
-- **Monitoring**: Grafana, Prometheus, Portainer dashboards
-- **Automation**: n8n workflows, GitHub Actions, Bash scripting
-- **Databases**: PostgreSQL, Redis, vector databases, KV storage
-- **APIs**: REST, WebSocket, MCP Protocol, third-party integrations
-
 ---
 
-## 🎨 Creative + Technical Fusion
-
-### **AI-Powered Content Creation**
-- **Music Video Production**: Google Veo 3 integration for next-gen visual storytelling
-- **Automated Workflows**: RunwayML, Kaiber, and custom AI pipelines
-- **Avatar Systems**: Text-to-video pipelines for faceless influencer content
-- **Visual Design**: Canva automation, brand asset generation
-- **Voice AI**: PlayHT integration for narration and character voices
-
-### **Business Automation Architecture**
-- **CRM Workflows**: Lead capture → nurture → conversion automation
-- **Revenue Streams**: Multiple passive income systems with technical backends
-- **Analytics Pipelines**: Music streaming data → business intelligence dashboards
-- **Client Onboarding**: Fully automated from signup to service delivery
-- **MCP Integration**: Bridging enterprise tools with AI agent ecosystems
-
----
-
-## 🚀 Current Projects
-
-<div align="center">
-
-### 🎯 **Building the Future of Creative AI**
-
-</div>
+## 🚀 Current Focus
 
 | Focus Area | Current Development |
 |------------|-------------------|
-| 🎵 **Music Tech** | StreamFarm platform evolution & AI-assisted production tools |
+| 🎬 **RAP Funnels** | Cinematic video campaigns that convert |
+| 🏢 **Solid Foundation** | GoHighLevel automation & white-label SaaS |
+| 🎵 **StreamFarm** | Music streaming platform with artist revenue systems |
 | 🤖 **Agent Systems** | Multi-modal AI agents with MCP protocol integration |
-| 🏢 **Business SaaS** | Expanding Solid Foundation platform capabilities |
-| 🎬 **Content Automation** | Next-gen video production with Google Veo 3 |
 | ⚡ **Edge Computing** | Cloudflare Workers ecosystem & serverless architecture |
 
 ---
@@ -120,6 +158,7 @@ Infrastructure Philosophy:
 - **app.micknown.com** - Automation hub and member platform
 - **WiFi Radio** - Streaming platform with artist revenue sharing
 - **Solid Foundation** - CRM and business automation SaaS
+- **RAP Funnels** - Cinematic marketing campaigns
 - **AI Influencer Systems** - Automated content creation services
 
 ---
@@ -159,11 +198,11 @@ Infrastructure Philosophy:
 
 <div align="center">
 
+> **"I reverse-engineer what converts, then I systematize it."**
+>
 > **"Every beat needs a system. Every system needs a soul."**
 >
-> **"I architect solutions that don't just work—they perform."**
->
-> **"Quality isn't a feature—it's the foundation."**
+> **"I don't just build systems—I compose them. I don't just write code—I write hits."**
 
 </div>
 
@@ -195,6 +234,7 @@ Infrastructure Philosophy:
 [![Website](https://img.shields.io/badge/🏠_Website-micknown.com-188bf6?style=for-the-badge)](https://www.micknown.com/)
 [![Spotify](https://img.shields.io/badge/🎵_Music-Spotify-1DB954?style=for-the-badge)](https://open.spotify.com/artist/7mbYQS9evKbvZOptRJ8uZL)
 [![YouTube](https://img.shields.io/badge/📺_Content-YouTube-FF0000?style=for-the-badge)](https://youtube.com/micknown)
+[![LinkedIn](https://img.shields.io/badge/💼_Professional-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mic-known)
 
 [![Platform](https://img.shields.io/badge/🧠_Platform-app.micknown.com-188bf6?style=for-the-badge)](https://app.micknown.com/)
 [![CRM](https://img.shields.io/badge/🏢_SaaS-Solid_Foundation-188bf6?style=for-the-badge)](https://www.micknown.com/ghlaffiliate)
@@ -211,10 +251,11 @@ Infrastructure Philosophy:
 **Got a vision that needs both creative flair AND technical architecture?**
 
 Whether you need:
-- 🎵 **Music production** and **streaming platform** development
+- 🎬 **Cinematic marketing campaigns** that actually convert (RAP Funnels)
 - 🤖 **AI automation** for **content creation** workflows
 - 🏗️ **Infrastructure architecture** for **scalable applications**
 - 💼 **Business automation** that **generates real revenue**
+- 🎵 **Music production** and **streaming platform** development
 
 **I don't just deliver projects—I architect experiences that perform, scale, and convert.**
 
