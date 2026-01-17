@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎤 Mic Known (aka BossMan) 🏗️
+# 🎤 Mic Known
 
 **Music Artist → Automation Architect | Founder @ Solid Foundation**
 
@@ -16,7 +16,7 @@ I mentor the mentors and coach the coaches.
 
 ## 🔥 The Short Version
 
-I'm **Mic Known**—but everywhere I go, people call me **BossMan**.
+I'm **Mic Known**—.
 
 I pioneered **RAP Funnels** with LifePreneur Music — cinematic campaigns for **ClickFunnels, GoHighLevel, Fullstaq Marketer, HempWorx, InVideo, and Photobooth International**. I reverse-engineered what actually converts, then I systematized it.
 
